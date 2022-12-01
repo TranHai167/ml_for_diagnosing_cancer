@@ -1,1 +1,1 @@
-# ml_for_diagnosing_colorectal_cancer
+# Ứng dụng Machine Learning vào bài toán dự đoán ung thư ung thư đại trực tràng 
